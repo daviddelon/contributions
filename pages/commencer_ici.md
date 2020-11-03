@@ -1,48 +1,72 @@
-# Commencer ici
+# Commence ici
+ 
+> MultiBàO te permet de partager aux autres organisations tes fiches expérience.  
+ 
+Quand tu es sur la page d'accueil de multiBàO, tu vois apparaître des équipes. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps. 
+ 
+ Ici, les ressources sont vivantes et non statiques. Et si elles sont vivantes, c'est parce que tu les fais vivre:
+* [envoie directement une proposition de modification](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) lorsque tu découvres une fiche avec des coquilles ou que tu souhaites proposer des améliorations à la fiche
+* [présente sur ton blog les fiches multibào](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md), elles seront automatiquement mises à jour
+* [présente sur ton blog les fiches du Biome HackLab](http://www.multibao.org/#multibao/documentation/blob/master/fiches/integrer_fiche_site.md), elles seront automatiquement mises à jour
+* inspire toi des pratiques ou teste les
+* [réutilise les fiches en dehors de multiBàO](http://multibao.org/#multibao/documentation/blob/master/fiches/choisir_licence_libre.md); pour cela toutes les ressources te sont accessibles sous licences libres
 
-![Debut](https://framapic.org/oJfJGFYuQWMX/yJFwCXEKUBHh.jpg)
+ 
+> Les équipes qui publient sur multiBàO sont intéressées pour faire vivre leurs ressources. Une fois que tu as testé une pratique ou réutilisé une ressource n'hésite pas à revenir vers l'équipe qui a proposé la pratique et qui a pris du temps à la rédiger: propose tes [propositions d'amélioration, images](http://www.multibao.org/#multibao/documentation/blob/master/fiches/proposer_modification.md) ou entre en contact avec eux. 
 
-Bienvenue! Il y a beaucoup d'informations à explorer sur multibao, et tu ne vas certainement pas tout lire d'un coup. On te présente donc quelques pistes pour débuter.
+ 
+## multiBàO, des cultures qui se côtoient
+ 
+### Ateliers collaboratifs et travail collaboratif à distance
 
-> multiBàO, c'est un endroit où on partage en équipe et au monde nos astuces sur le faire ensemble.
+Côté [CPCOOP](http://multibao.org/#cpcoop), c'est la pratique des ateliers/réunions en présentiel qui est explorée. 
 
-Quand tu es sur la page d'accueil et que tu regardes la partie haute de l'écran, tu découvres les équipes qui ont partagé avec toi leurs astuces. Tu trouveras sûrement des ressources de valeur pour toi. Prends le temps.
-Tu peux aussi utiliser multiBàO pour partager des ressources avec ton équipe ou pour faire des propositions de modification sur les fiches que tu consultes. [Teste toi](http://www.multibao.org/multibao/documentation/test).
+Le [collectif d'associations FR-BE-ES Coop-Tic](http://multibao.org/#supagroflorac/cooptic/tree/master/contributions) vous présente des ressources sur le travail collaboratif à distance et se focalise particulièrement sur l'utilisation d'outils numériques collaboratifs
 
-*A savoir: la publication de la prochaine version de multiBàO, qui allège la présentation des fiches, est prévue pour fin avril 2016.*
+L'[association Cresol](http://multibao.org/#RomainLalande/Cre-sol) permet d'approfondir la pratique d'outils numériques collaboratifs
+ 
+Le chercheur [Lilian Ricaud](http://multibao.org/#lilianricaud/travail-en-reseau), quant à lui, nous partage ses observations sur la [manière d'animer des événements participatifs, de [générer des biens communs](http://multibao.org/#lilianricaud/minga) ou encore de [travailler en réseau](http://multibao.org/#lilianricaud/travail-en-reseau).
+ 
+### Préparer ensemble un monde post-énergie fossiles 
+ 
+-L'[équipe de Réseau transition Belgique](http://multibao.org/#reseautransitionwb) qui nous présente ses pratiques collaboratives
 
-## Explorer 
+ 
+### Réappropriation de l'espace public 
+ 
+Le [collectif d'architectes Chiendent](http://multibao.org/#chiendent) explore l'urbanisme participatif et la manière de se réapproprier l'espace public
 
-**Travailler à distance, quels outils numériques collaboratifs ?**
+ 
+### Démocratie participative et gouvernance 
+ 
+La communauté [Démocratie Ouverte](http://multibao.org/#alecoz/democratie_ouverte/tree/master/contributions) publie sur multiBàO des retours d'expériences démocratiques dans des villes, régions, collectifs
 
-* Jeter un coup d'oeil du côté du groupement d'associations [Coop-Tic](http://www.multibao.org/supagroflorac/cooptic/contributions) ainsi que les contenus de l'association [Cre-Sol](http://www.multibao.org/RomainLalande/Cre-sol/).
+ 
+### Médias citoyens
+ 
+-Les journalistes du [média citoyen Onpassealacte](http://multibao.org/#onpassealacte) nous présentent en vidéo plusieurs dizaines d'initiatives citoyennes en matière d'habitat participation, démocratie, solidarité
 
-**Facilitation, animation de groupe**
+ 
+## Pourquoi multiBàO ?
+ 
+BàO c'est pour Boîte à Outils. Multi, c'est parce que c'est une technologie qui te/vous  permet de:
 
-* Et si on allait faire un tour du côté de l'[association CPCOOP](http://www.multibao.org/multibao/contributions/contributions/cpcoop) et du dossier ["Travail en réseau"](http://www.multibao.org/lilianricaud/travail-en-reseau/) de Lilian Ricaud ? Tu trouveras aussi de nombreuses ressources éparpillées dans le dépôt [public](http://www.multibao.org/multibao/contributions/contributions).
+ * partager des contenus avec une équipe,
+ * avoir un endroit classe et dynamique où vous pouvez présenter, extraire, faire vivre vos données,
+ * avoir une liberté totale sur la gouvernance et la réutilisation de tes données (synchronisation avec ton site web, export sous tous les formats, etc.).
 
-**Gestion d'initiative en Transition, animation de groupe**
+ 
+ ![publicdomain](https://licensebuttons.net/p/zero/1.0/88x31.png)
+ 
+-Nous dédions multiBàO.org au domaine public. Le code est publié sous la licence [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr). Nous renonçons dans le monde entier aux droits sur l’œuvre selon les lois sur le droit d’auteur, droit voisin et connexes, dans la mesure permise par la loi. Vous pouvez copier, modifier, distribuer et représenter l’œuvre, même à des fins commerciales, sans avoir besoin de demander l’autorisation.
 
-* Explorer les astuces du [Transition Network](http://www.multibao.org/reseautransitionwb/reseau_transition/contributions/Ingr%C3%A9dients) et de l'[association Réseau Transition Belgique](http://www.multibao.org/reseautransitionwb/reseau_transition/contributions).
+ 
+ Nous invitons librement toute réutilisation de la technologie à d'autres fins. 
+ Et [on vous explique même comment le faire](https://github.com/daktary-team/daktary)
+ 
+ Bonne utilisation,
+ 
+-*La Team multiBàO*
 
-**Démocratie, Citoyenneté, Liens avec les élus**
 
-* Explorer les retours d'expériences de l'[association Démocratie Ouverte](http://www.multibao.org/alecoz/democratie_ouverte/contributions), et en matière d'urbanisme participatif les quelques fiches du [collectif Chiendent](http://www.multibao.org/multibao/contributions/contributions/collectif_chiendent).
 
-**Construire des biens communs**
-
-* Explorer le dépot [Minga](http://www.multibao.org/lilianricaud/Minga/) et les deux retours d'expérience du [TempsdesCommuns](http://www.multibao.org/tempsdescommuns/contributions/).
-
-**Vidéos d'initiatives citoyennes collaboratives**
-
-* Sans nul doute, qu'il s'agisse d'habitat collectif ou de projets communs, aller s'inspirer chez les journalistes de l'association [Onpassealacte](http://www.multibao.org/onpassealacte/videos_initiatives/).
-
-## Pourquoi multi Boîte à Outils (multiBàO) ?
-
-multiBàO te permet d'utiliser 3 outils principaux, seul ou en équipe :
-
-* *le visionneur* : crée un dépôt de fiches que tu peux visionner via multiBàO. Partage ce lien avec d'autres. C'est vous qui avez la gouvernance.
-* *l'éditeur* : une faute d'orthographe, un éclaircissement à apporter..., tu peux modifier les fiches que tu consultes via l'éditeur. Si un contributeur extérieur modifie ta ressource, tu recevras une proposition de modification.
-* *l'intégration* : insère une fiche de multiBàO à ton site web, ça prendra automatiquement la mise en page de ton site et sera actualisé dès qu'une modification sera approuvée. 
-
-Tu peux te [tester](http://multibao.org/multibao/documentation/test) en quelques clics ou consulter le [guide d'utilisation](http://www.multibao.org/multibao/documentation/README.md) qui répondra sûrement à tes questions.

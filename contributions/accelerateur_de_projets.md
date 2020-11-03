@@ -1,10 +1,3 @@
----
-contributors: Outils Réseaux, Moustic, SupAgroFlorac
-description: Un accélérateur de projet permet de bénéficier du soutien de ses pairs pour résoudre une problématique
-title: Accélérateur de projets
-image_url: http://placehold.it/350x150
----
-
 # Accélérateur de projet
 
 ## En une phrase
@@ -32,7 +25,7 @@ Trois rôles devraient être assurés :
 
 **[1](#note)** 
 
-### Étape 0 : préparation (5 min.)
+### Étape 0 : Préparation (5 min.)
 
 Au début de la rencontre, le groupe devrait choisir :
 
@@ -41,19 +34,19 @@ Au début de la rencontre, le groupe devrait choisir :
 * une personne qui prendra les notes (ou fonction partagée sur pad)
 
 
-###  Étape 1 : exposé de la problématique ou de la situation (5 min)
+###  Étape 1 : Exposé de la problématique ou de la situation (5 min)
 
 La personne qui a accepté de soumettre son problème expose le plus clairement possible la situation et son contexte. Elle exprime ensuite la façon dont elle définit le problème. Les autres membres de l’équipe écoutent.
 
-### Étape 2 : clarification de la problématique (5 min)
+### Étape 2 : Clarification de la problématique (5 min)
 
 Les membres du groupe formulent les questions pour bien cerner la situation. Ils doivent, à cette étape, s’en tenir à des questions d’information factuelle (meilleure compréhension du contexte par ex). La personne qui a exposé sa situation apporte les précisions ensuite.
 
-### Étape 3 : contrat - reformulation de la question (1 min)
+### Étape 3 : Contrat - reformulation de la question (1 min)
 
 La personne qui a exposé sa situation précise clairement ce qu’elle attend des autres membres du groupe. (je voudrais que le groupe m'aide à ....)
 
-### Étape 4 : réactions, commentaires, suggestions (20- 30 min)
+### Étape 4 : Réactions, commentaires, suggestions (20- 30 min)
 
 Les autres membres du groupe interviennent : donnent leurs impressions, réactions, interprétations... Ils proposent une façon de voir autrement la situation. Ils peuvent faire des suggestions pratiques ou donner des conseils. La personne qui a exposé sa situation écoute et s'engage à ne pas intervenir. Elle a tout intérêt à noter par écrit ce qui lui paraît pertinent de retenir.
 
@@ -80,7 +73,7 @@ Pour assurer le succès d’une telle démarche, l'animateur rappelle les règle
 
 ![rencontresmoustic]({{site.baseurl}}/media/les-rencontres-moustic-2015.jpg)
 
-<a id="note">
+<a id="note"> <a name="note"></a>
 * **(1)** Cours adapté de : Payette, A. et Champagne, C. Le groupe de codéveloppement professionnel, Sainte-Foy, Les Presses de l’Université du Québec,1997. Publié depuis [Moustic](http://moustic.info/2013/wakka.php?wiki=AccelerateurProjet) sous licence Creative Commons BY-SA
 * **(2)** Bonnes pratiques pour bien animer un accélérateur de projet (http://site-coop.net/wp37/quelles-seraient-pour-vous-les-bonnes-pratiques-pour-bien-animer-un-accelerateur-de-projet/) groupe DLA37  distribué sous licence Creative Commons BY-SA 
 * **(3)** [MousTIC](http://www.lilianricaud.com/travail-en-reseau/moustic-evenement-participatif-usages-sociaux-internet/accelerateur-de-projet-collaboratif/), distribué sous licence Creative Commons BY-SA
